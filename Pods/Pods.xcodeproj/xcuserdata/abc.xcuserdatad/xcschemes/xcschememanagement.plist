@@ -4,20 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-SwiftUITestDemo.xcscheme</key>
+		<key>Pods-SwiftUITestDemo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>Pods-SwiftUITestDemoTests.xcscheme</key>
+		<key>Pods-SwiftUITestDemoTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>Pods-SwiftUITestDemoUITests.xcscheme</key>
+		<key>Pods-SwiftUITestDemoUITests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
